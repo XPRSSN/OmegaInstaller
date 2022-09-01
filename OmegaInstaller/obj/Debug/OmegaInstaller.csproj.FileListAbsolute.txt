@@ -1,0 +1,11 @@
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\bin\Debug\OmegaInstaller.exe.config
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\bin\Debug\OmegaInstaller.exe
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\bin\Debug\OmegaInstaller.pdb
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\obj\Debug\OmegaInstaller.csproj.AssemblyReference.cache
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\obj\Debug\OmegaInstaller.csproj.SuggestedBindingRedirects.cache
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\obj\Debug\OmegaInstaller.Properties.Resources.resources
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\obj\Debug\OmegaInstaller.csproj.GenerateResource.cache
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\obj\Debug\OmegaInstaller.csproj.CoreCompileInputs.cache
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\obj\Debug\OmegaInstaller.exe
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\obj\Debug\OmegaInstaller.pdb
+C:\Users\thanos\Desktop\Omega-Installer\OmegaInstaller\OmegaInstaller\obj\Debug\OmegaInstaller.Form1.resources
